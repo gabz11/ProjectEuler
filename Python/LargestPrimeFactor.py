@@ -10,4 +10,5 @@ def primeFactor(num):
             else:
                 b = b * a
 
+
 primeFactor(600851475143)
